@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'yonki3',
+    'yonki2',
 ]
 
 MIDDLEWARE = [
